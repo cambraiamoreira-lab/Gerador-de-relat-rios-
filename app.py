@@ -31,7 +31,7 @@ if st.button("Gerar Relatório"):
         with st.spinner("Escrevendo o relatório..."):
             
             # Conectando com a IA
-            client = Groq(api_key="SUA_CHAVE_AQUI")
+            client = Groq(api_key="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")
             
             prompt = f"""
             Você é um professor experiente e atencioso. 
