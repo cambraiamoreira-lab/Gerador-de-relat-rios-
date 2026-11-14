@@ -1,8 +1,0 @@
-[theme]
-base = "light"
-primaryColor = "#2563EB"            # Azul moderno para botões e destaques
-backgroundColor = "#F8FAFC"         # Fundo principal (um cinza bem claro)
-secondaryBackgroundColor = "#FFFFFF" # Fundo de caixas de texto e widgets
-textColor = "#1E293B"               # Cor do texto (cinza escuro)
-font = "sans serif"                 # Fonte limpa e legível
-borderRadius = "0.75rem"            # Bordas arredondadas (deixa os botões mais bonitos)
